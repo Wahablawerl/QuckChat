@@ -11,7 +11,7 @@ function App() {
 
   if (isLoading) {
     return (
-      <div className="bg-[url('src/assets/bgImage.svg')] bg-contain min-h-screen flex items-center justify-center">
+      <div className="bg-[url('/bgImage.svg')] bg-contain min-h-screen flex items-center justify-center">
         <div className="text-white text-xl">Loading...</div>
       </div>
     );
