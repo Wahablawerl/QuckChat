@@ -2,7 +2,7 @@
 
 QuickChart is a lightweight real-time chat application built with a modern React frontend and an Express + MongoDB backend. It demonstrates full-stack skills including JWT authentication, file upload (Cloudinary), WebSockets (socket.io) for real-time events, and clean separation of client/server responsibilities.
 
-🔗 **Live Demo**: [https://quck-chat-git-main-wahabls-projects.vercel.app/](https://quck-chat-git-main-wahabls-projects.vercel.app/)
+🔗 **Live Demo**: [https://quck-chat.vercel.app/](https://quck-chat.vercel.app/)
 
 ---
 
